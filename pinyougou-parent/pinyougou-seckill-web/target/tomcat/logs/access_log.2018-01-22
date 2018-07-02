@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [22/Jan/2018:22:02:37 +0800] "GET / HTTP/1.1" 304 - http-bio-9109-exec-1 72
+0:0:0:0:0:0:0:1 - - [22/Jan/2018:22:02:37 +0800] "GET /%7B%7Bpojo.smallPic%7D%7D HTTP/1.1" 302 - http-bio-9109-exec-7 32
+0:0:0:0:0:0:0:1 - - [22/Jan/2018:22:02:37 +0800] "GET /seckillGoods/findList.do HTTP/1.1" 500 11377 http-bio-9109-exec-8 250
+0:0:0:0:0:0:0:1 - - [22/Jan/2018:22:02:39 +0800] "GET /assets/img/favicon.ico HTTP/1.1" 302 - http-bio-9109-exec-4 10
